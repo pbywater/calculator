@@ -5,9 +5,9 @@ button {
 #calculator {
     width: 400px;
     background-color: pink;
-    height: 550px;
+    height: 600px;
     border-radius: 5%;
-    padding-top: 5%;
+    padding-top: 3%;
 }
 
 #screen {
@@ -16,4 +16,12 @@ button {
     width: 80%;
     margin-left: 10%;
     margin-right: 10%;
+}
+
+#screen p {
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+    margin:0%;
+    padding-top: 15%;
 }
