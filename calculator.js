@@ -21,6 +21,7 @@ var minus = document.getElementById('minus');
 var divide = document.getElementById('divide');
 var times = document.getElementById('times');
 var equals = document.getElementById('equals');
+var equals = document.getElementById('clear');
 
 //printing numbers
 
